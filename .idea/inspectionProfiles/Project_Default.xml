@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="twisted.internet.reactor.listenTCP" />
+          <option value="twisted.internet.reactor.run" />
+          <option value="PyQt5.QtWidgets.QWidget.text" />
+          <option value="PyQt5.QtCore.pyqtSignal.connect" />
+          <option value="PyQt5.QtCore.pyqtSignal.emit" />
+          <option value="twisted.internet.reactor.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
